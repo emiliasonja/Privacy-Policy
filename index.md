@@ -6,7 +6,7 @@ This privacy policy outlines how I collect, use, and protect data when using Pin
 
 ## Information I Collect
 Through the Pinterest API, I collect the following information:
-- **Pinterest Comment Counts**: We retrieve publicly available data from the "Fashion" section on Pinterest, focusing at comment counts on pins.
+- **Pinterest Comment Counts**: I retrieve publicly available data from the "Fashion" section on Pinterest, focusing at comment counts on pins.
 
 ## How I Use Your Data
 I use the Pinterest comment count data solely for analytical purposes. This data helps me understand trends and engagement levels within the "Fashion" section on Pinterest. I do not collect any personally identifiable information from Pinterest users.
